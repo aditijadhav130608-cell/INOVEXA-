@@ -1,2 +1,2 @@
 # INOVEXA-
-LEGAL - Categorizing unstructured grassroot communication, 
+LEGAL - Categorizing unstructured grassroot communication.
